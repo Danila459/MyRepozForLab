@@ -1,8 +1,5 @@
-console.log("Hello world");
 
-
-
-function showMessage() {
+function Text() {
     alert( 'Всем привет!' );
   }
-  showMessage();
+Text();
